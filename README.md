@@ -1,4 +1,4 @@
-👋 Hi there! I'm @Yegor-M, a Web Developer with a passion for Machine Learning.
+👋 Hi there! I'm a Web Developer with a passion for Machine Learning.
 
 🌱 Currently pursuing a Bachelor's degree at the Polish-Japanese University.
 
